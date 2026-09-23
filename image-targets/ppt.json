@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 1439,
+    "width": 481,
+    "height": 641,
+    "isRotated": false,
+    "originalWidth": 1920,
+    "originalHeight": 1080
+  },
+  "imagePath": "image-targets/ppt_luminance.png",
+  "metadata": null,
+  "name": "ppt",
+  "resources": {
+    "originalImage": "ppt_original.png",
+    "croppedImage": "ppt_cropped.png",
+    "thumbnailImage": "ppt_thumbnail.png",
+    "luminanceImage": "ppt_luminance.png"
+  },
+  "created": 1790200244184,
+  "updated": 1790200258573
+}
