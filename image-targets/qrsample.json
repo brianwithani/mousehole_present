@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 393,
+    "left": 0,
+    "width": 654,
+    "height": 872,
+    "isRotated": false,
+    "originalWidth": 654,
+    "originalHeight": 1658
+  },
+  "imagePath": "image-targets/qrsample_luminance.png",
+  "metadata": null,
+  "name": "qrsample",
+  "resources": {
+    "originalImage": "qrsample_original.png",
+    "croppedImage": "qrsample_cropped.png",
+    "thumbnailImage": "qrsample_thumbnail.png",
+    "luminanceImage": "qrsample_luminance.png"
+  },
+  "created": 1790117764371,
+  "updated": 1790117764371
+}

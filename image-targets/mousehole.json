@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 0,
+    "width": 892,
+    "height": 1189,
+    "isRotated": false,
+    "originalWidth": 1224,
+    "originalHeight": 1189
+  },
+  "imagePath": "image-targets/mousehole_luminance.png",
+  "metadata": null,
+  "name": "mousehole",
+  "resources": {
+    "originalImage": "mousehole_original.png",
+    "croppedImage": "mousehole_cropped.png",
+    "thumbnailImage": "mousehole_thumbnail.png",
+    "luminanceImage": "mousehole_luminance.png"
+  },
+  "created": 1788203049268,
+  "updated": 1788203318337
+}

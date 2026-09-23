@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 59,
+    "left": 84,
+    "width": 998,
+    "height": 1331,
+    "isRotated": false,
+    "originalWidth": 1167,
+    "originalHeight": 1448
+  },
+  "imagePath": "image-targets/ppt_qr_luminance.png",
+  "metadata": null,
+  "name": "ppt_qr",
+  "resources": {
+    "originalImage": "ppt_qr_original.png",
+    "croppedImage": "ppt_qr_cropped.png",
+    "thumbnailImage": "ppt_qr_thumbnail.png",
+    "luminanceImage": "ppt_qr_luminance.png"
+  },
+  "created": 1790192630638,
+  "updated": 1790192987280
+}
